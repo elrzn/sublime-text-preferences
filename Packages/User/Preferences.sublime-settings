@@ -1,0 +1,50 @@
+{
+	"bold_folder_labels": true,
+	"caret_style": "phase",
+	"close_windows_when_empty": false,
+	"color_scheme": "Packages/Theme - Phoenix/Color Scheme/Phoenix Dark Blue.tmTheme",
+	"ensure_newline_at_eof_on_save": true,
+	"fade_fold_buttons": false,
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		"_build",
+		"dist",
+		"build",
+		"site"
+	],
+	"font_options":
+	[
+		"subpixel_antialias"
+	],
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"perltidy_cmd": "/usr/local/bin/perltidy",
+	"perltidy_options":
+	[
+		"-pbp",
+		"-w",
+		"-l=115",
+		"-isbc",
+		"-nolq",
+		"-pt=0",
+		"-sbt=0",
+		"-bt=0"
+	],
+	"phoenix_color_blue": true,
+	"phoenix_color_expanded_folder": true,
+	"phoenix_highlight_current_tab": true,
+	"phoenix_sidebar_tree_large": true,
+	"phoenix_solid_current_tab": true,
+	"phoenix_tabs_auto_width": true,
+	"phoenix_tabs_medium": true,
+	"theme": "Phoenix Dark.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"use_simple_full_screen": true
+}
